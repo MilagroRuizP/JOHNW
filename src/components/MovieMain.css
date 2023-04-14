@@ -1,0 +1,36 @@
+
+  .main img {
+    width: 110%;
+    max-width: 120%;
+    height: auto;
+    margin-top: -12px;
+    margin-left: -8px;
+    
+    
+  }
+  .resumen{
+    line-height: 15px;
+    align-items: center;
+    font-size: 10px;
+    text-align: justify;
+    margin: -2px 13px 0 12px;
+  }
+  .main button {
+    color: #d9d9d9;
+    font-family: "Istok Web";
+    font-style: normal;
+    font-weight: 500;
+    font-size: 13px;
+    line-height: 40px;
+    margin: 55px 0px 0px 25px;
+    width: 340px;
+    height: 45px;
+    background: #6a536a;
+    border: 3px solid #6a536a;
+    border-radius: 16px;
+  }
+  .main {
+    
+    display: flex;
+    flex-direction: column;
+  }
